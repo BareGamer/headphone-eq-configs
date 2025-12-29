@@ -4,7 +4,7 @@ Well, fear not. I've been in your situation and learned how to EQ them, and then
 that bought those models too.
 
 So, what can you expect?
-- Neutral response curve, manually crafted around '500hz = +0db' for headphone models nobody cares about
+- Neutral response curve, manually crafted around '500hz = +0db' for headphone models nobody cares about (or just hasn't made a config for)
 - EasyEQ configs for such headphones as:
    - P47 headphones from Aliexpress
    -  F68 headphones from Pepco
@@ -17,5 +17,5 @@ So, what can you expect?
 - Support for AutoEQ file format/Wavelet soon via a generator script
 
 Community contributions are welcome! 
-If you have EQ configs for other obscure headphones, make a pull request. 
+If you have EQ configs for other (obscure) headphones, make a pull request. 
 If you found some imperfection in my configs, open an issue, and I might integrate your fix.
